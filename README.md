@@ -1,4 +1,4 @@
-# faltten
+# flattenpy
 A Python library to flatten python list
 
 # Usage
